@@ -1,7 +1,7 @@
 <h2><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> Hi! I'm Seema.</h2>
 
-<h4> Computer Engineer | Front-End Developer </h4>
-
+<h3> Computer Engineer | Front-End Developer </h3>
+<h4>Creative Front-End Developer with a high ability to turn UI/UX designs into real websites using modern technologies. Don't hesitate to contact me, I really like making new friends 🤗 </h4>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🌍 &nbsp; Based in Palestine, Tulkarm.
