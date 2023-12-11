@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Seema👋.</h2>
+<h2> Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Seema.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://seema-nassar.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Seema%20Nassar-9c27b0?style=flat-square&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SeemaNassar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20Nassar-2196f3?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/seema_nassar_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-seema_nassar_-e91e63?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="mailto:seema@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-seema@example.com-ff5722?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/seema-nassar-43698224b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20Nassar-2196f3?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/sema.nassar.7/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-seemanassar-1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="mailto:seemanassar3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seema@example.com-ff5722?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
