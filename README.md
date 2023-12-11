@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Seema.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
@@ -50,10 +50,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://seema-nassar.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Seema%20Nassar-#6f42c1?style=flat-square&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seema-nassar-43698224b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20Nassar-#0077b5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/sema.nassar.7/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-seemanassar-#1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="mailto:seemanassar3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seemanassar3@gmail.com-#e44d26?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://seema-nassar.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Seema%20Nassar-9c27b0?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/seema-nassar-43698224b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20Nassar-2196f3?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/sema.nassar.7/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-seemanassar-1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="mailto:seemanassar3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seema@example.com-ff5722?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 
