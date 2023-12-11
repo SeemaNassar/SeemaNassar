@@ -4,11 +4,11 @@
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌍 &nbsp; Based in Palestine, Tulkarm.
 - 🎓 &nbsp; Studied Computer Engineering at An-Najah National University.
-- 💼 &nbsp; See my portfolio at [MyPortfolio](https://seema-nassar.netlify.app).
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🖥️ &nbsp; See my portfolio at [MyPortfolio](https://seema-nassar.netlify.app).
+- 🧠 &nbsp; Learning more about React, NodeJs and other languages.
+- ✍️ &nbsp; Thank You For being Here.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
