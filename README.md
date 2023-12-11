@@ -5,8 +5,8 @@
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🎓 &nbsp; Studied Computer Engineering at An-Najah National University.
+- 💼 &nbsp; See my portfolio at [MyPortfolio](https://seema-nassar.netlify.app).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -50,7 +50,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seema-nassar-43698224b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20Nassar-2196f3?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/sema.nassar.7/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-seemanassar-9c27b0?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="mailto:seemanassar3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seema@example.com-ff5722?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:seemanassar3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seemanassar3@gmail.com-ff5722?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 
