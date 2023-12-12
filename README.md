@@ -50,8 +50,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seema-nassar-43698224b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20Nassar-2196f3?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/sema.nassar.7/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-seemanassar-9c27b0?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="mailto:seemanassar3@gmail.com">
-    <img alt="Copy Email" src="https://img.shields.io/badge/Copy-Email-ff5722?style=flat-square&logo=copy&logoColor=white">
+  <a id="copy-email" href="mailto:seemanassar3@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-seemanassar3@gmail.com-ff5722?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
